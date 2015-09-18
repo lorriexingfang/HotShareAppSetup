@@ -15,6 +15,7 @@
     <engine name="cordova" version=">=3.0.0"/>
   </engines>
 
+  <platform name="ios">
     <config-file target="*-Info.plist" parent="CFBundleDisplayName">
       <string>游喳搭伙</string>
     </config-file>
