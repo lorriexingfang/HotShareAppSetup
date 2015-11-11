@@ -17,7 +17,7 @@
 
   <platform name="ios">
     <config-file target="*-Info.plist" parent="CFBundleDisplayName">
-      <string>游喳搭伙</string>
+      <string>小店公告</string>
     </config-file>
 
     <config-file target="*-Info.plist" parent="NSAppTransportSecurity">
